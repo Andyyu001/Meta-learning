@@ -16,6 +16,10 @@ code： https://github.com/kjunelee/MetaOptNet
 paper： Image Deformation Meta-Networks for One-Shot Learning
 code： https://github.com/tankche1/IDeMe-Net
 
+5. 图像的去噪 few-shot
+paper：Generating Classification Weights with GNN Denoising Autoencoders for Few-Shot Learning
+code：https://github.com/gidariss/wDAE_GNN_FewShot
+
 5. 整合的综述内容
 code：https://github.com/MichaelMMeskhi/MtL-Progress-github.io
 
