@@ -20,6 +20,15 @@ code： https://github.com/tankche1/IDeMe-Net
 paper：Generating Classification Weights with GNN Denoising Autoencoders for Few-Shot Learning
 code：https://github.com/gidariss/wDAE_GNN_FewShot
 
+6. 图像分类小样本学习（图像比较）
+paper：Learning to Compare: Relation Network for Few-Shot Learning
+code：https://github.com/floodsung/LearningToCompare_FSL
+
+7. MAML pytorch版实现
+
+code： https://github.com/katerakelly/pytorch-maml
+
+
 5. 整合的综述内容
 code：https://github.com/MichaelMMeskhi/MtL-Progress-github.io
 
